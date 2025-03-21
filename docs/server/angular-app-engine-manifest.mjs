@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/LH-GAMES',
   supportedLocales: {
   "en-US": ""
 },
